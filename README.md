@@ -6,4 +6,4 @@ This assignment cover the creation of a mobile responsive portfolio using Bootst
 
 Repository:https://github.com/rvoges31/Responsive-Portfolio
 
-Index Html:
+Index Html:https://rvoges31.github.io/Responsive-Portfolio/
